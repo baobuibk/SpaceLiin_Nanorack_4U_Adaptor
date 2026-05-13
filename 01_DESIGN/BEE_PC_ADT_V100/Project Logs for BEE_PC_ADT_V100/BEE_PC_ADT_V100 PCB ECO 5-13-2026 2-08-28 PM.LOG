@@ -1,0 +1,32 @@
+Added Component: Designator=J1(SAMTEC_TSW-107-07-F-D)
+Added Component: Designator=J2(SAMTEC_TSW-107-07-F-D)
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=+12V_AUX_NL1 Pin=J1-11
+Added Pin To Net: NetName=+12V_AUX_NL1 Pin=J1-12
+Added Pin To Net: NetName=SHIELD Pin=J1-13
+Added Pin To Net: NetName=SHIELD Pin=J1-14
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=+12V_AUX_NL2 Pin=J2-11
+Added Pin To Net: NetName=+12V_AUX_NL2 Pin=J2-12
+Added Pin To Net: NetName=SHIELD Pin=J2-13
+Added Pin To Net: NetName=SHIELD Pin=J2-14
+Added Member To Class: ClassName=02_CONNECTOR Member=Component J1 Header 7x2_Z
+Added Member To Class: ClassName=02_CONNECTOR Member=Component J2 Header 7x2_Z

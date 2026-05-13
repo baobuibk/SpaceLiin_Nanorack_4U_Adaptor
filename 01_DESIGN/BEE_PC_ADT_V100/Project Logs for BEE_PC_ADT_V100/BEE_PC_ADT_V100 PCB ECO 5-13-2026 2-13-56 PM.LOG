@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NL2_USB_P Pin=J1-4
+Added Pin To Net: NetName=NL1_USB_P Pin=J1-4
+Added Member To Class: ClassName=02_CONNECTOR Member=Component J1 Header 7x2_Z

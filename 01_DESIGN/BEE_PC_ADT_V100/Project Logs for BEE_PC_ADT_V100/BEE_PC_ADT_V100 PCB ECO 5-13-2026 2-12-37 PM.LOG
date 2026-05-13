@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=+12V_AUX_NL1 Pin=J1-11
+Removed Pin From Net: NetName=+12V_AUX_NL1 Pin=J1-12
+Removed Pin From Net: NetName=SHIELD Pin=J1-13
+Removed Pin From Net: NetName=SHIELD Pin=J1-14
+Removed Pin From Net: NetName=GND Pin=J2-10
+Removed Pin From Net: NetName=+12V_AUX_NL2 Pin=J2-11
+Removed Pin From Net: NetName=+12V_AUX_NL2 Pin=J2-12
+Removed Pin From Net: NetName=SHIELD Pin=J2-13
+Removed Pin From Net: NetName=SHIELD Pin=J2-14
+Removed Member From Class: ClassName=02_CONNECTOR Member=J1
+Removed Member From Class: ClassName=02_CONNECTOR Member=J2
+Added Component: Designator=J?(SAMTEC_TSW-107-07-F-D)
+Added Component: Designator=J?(SAMTEC_TSW-107-07-F-D)
+Added Pin To Net: NetName=+5V_USB_NL1 Pin=J?-1
+Added Pin To Net: NetName=+5V_USB_NL2 Pin=J?-1
+Added Pin To Net: NetName=+5V_USB_NL1 Pin=J?-2
+Added Pin To Net: NetName=+5V_USB_NL2 Pin=J?-2
+Added Pin To Net: NetName=NL1_USB_N Pin=J?-3
+Added Pin To Net: NetName=NL2_USB_N Pin=J?-3
+Added Pin To Net: NetName=NL2_USB_P Pin=J?-4
+Added Pin To Net: NetName=NL2_USB_P Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=+5V_AUX_NL1 Pin=J?-7
+Added Pin To Net: NetName=+5V_AUX_NL2 Pin=J?-7
+Added Pin To Net: NetName=+5V_AUX_NL1 Pin=J?-8
+Added Pin To Net: NetName=+5V_AUX_NL2 Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=+12V_AUX_NL1 Pin=J?-11
+Added Pin To Net: NetName=+12V_AUX_NL2 Pin=J?-11
+Added Pin To Net: NetName=+12V_AUX_NL1 Pin=J?-12
+Added Pin To Net: NetName=+12V_AUX_NL2 Pin=J?-12
+Added Pin To Net: NetName=SHIELD Pin=J?-13
+Added Pin To Net: NetName=SHIELD Pin=J?-13
+Added Pin To Net: NetName=SHIELD Pin=J?-14
+Added Pin To Net: NetName=SHIELD Pin=J?-14
+Added Member To Class: ClassName=02_CONNECTOR Member=Component J? Header 7x2_Z
+Added Member To Class: ClassName=02_CONNECTOR Member=Component J? Header 7x2_Z

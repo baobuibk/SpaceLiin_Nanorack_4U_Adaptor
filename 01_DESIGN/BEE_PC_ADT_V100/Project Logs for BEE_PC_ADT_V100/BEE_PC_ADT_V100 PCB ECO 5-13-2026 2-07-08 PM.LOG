@@ -1,0 +1,4 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:SAMTEC_TSW-107-07-F-D
+Change Footprint: Cannot match pads with new footprint in component :J2 Footprint:SAMTEC_TSW-107-07-F-D
+Change Component Comment : Designator=J1 Old Comment=SSM-107-T-DV-P New Comment=Header 7x2_Z
+Change Component Comment : Designator=J2 Old Comment=SSM-107-T-DV-P New Comment=Header 7x2_Z
