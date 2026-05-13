@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=SHIELD Pin=H1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=SHIELD Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-M1
+Removed Pin From Net: NetName=GND Pin=J1-M2
+Removed Pin From Net: NetName=GND Pin=J2-M1
+Removed Pin From Net: NetName=GND Pin=J2-M2
+Removed Pin From Net: NetName=GND Pin=J3-M1
+Removed Pin From Net: NetName=GND Pin=J3-M2
+Removed Pin From Net: NetName=GND Pin=J4-M1
+Removed Pin From Net: NetName=GND Pin=J4-M2
+Removed Pin From Net: NetName=GND Pin=J5-M1
+Removed Pin From Net: NetName=GND Pin=J5-M2
+Removed Pin From Net: NetName=GND Pin=J6-M1
+Removed Pin From Net: NetName=GND Pin=J6-M2
+Removed Pin From Net: NetName=GND Pin=J7-M1
+Removed Pin From Net: NetName=GND Pin=J7-M2
+Removed Member From Class: ClassName=04_CONNECTOR Member=H1
+Change Footprint: Footprint Not Found SAMTEC_SSM-107-X-DV-XX
+Change Component Comment : Designator=J1 Old Comment=5040501191 New Comment=SSM-107-T-DV-P
+Change Component Designator: OldDesignator=J2 NewDesignator=J11
+Change Component Designator: OldDesignator=J3 NewDesignator=J21
+Change Component Designator: OldDesignator=J4 NewDesignator=J13
+Change Component Designator: OldDesignator=J5 NewDesignator=J23
+Change Component Designator: OldDesignator=J6 NewDesignator=J12
+Change Component Designator: OldDesignator=J7 NewDesignator=J22
+Add Component: Footprint Not Found SAMTEC_SSM-107-X-DV-XX
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=SHIELD Pin=J13-3
+Added Pin To Net: NetName=GND Pin=J13-4
+Added Pin To Net: NetName=+5V_AUX_NL1 Pin=J1-7
+Added Pin To Net: NetName=+5V_AUX_NL1 Pin=J1-8
+Added Pin To Net: NetName=+5V_AUX_NL1 Pin=J13-1
+Added Net: Name=+5V_AUX_NL1
+Added Pin To Net: NetName=+5V_AUX_NL2 Pin=J23-1
+Added Net: Name=+5V_AUX_NL2
+Added Pin To Net: NetName=+5V_USB_NL1 Pin=J1-1
+Added Pin To Net: NetName=+5V_USB_NL1 Pin=J1-2
+Added Pin To Net: NetName=+5V_USB_NL1 Pin=J11-1
+Added Net: Name=+5V_USB_NL1
+Added Pin To Net: NetName=+5V_USB_NL2 Pin=J21-1
+Added Net: Name=+5V_USB_NL2
+Added Pin To Net: NetName=+12V_AUX_NL1 Pin=J1-11
+Added Pin To Net: NetName=+12V_AUX_NL1 Pin=J13-5
+Added Net: Name=+12V_AUX_NL1
+Added Pin To Net: NetName=+12V_AUX_NL2 Pin=J23-5
+Added Net: Name=+12V_AUX_NL2
+Added Pin To Net: NetName=NL1_USB_D_N Pin=J1-3
+Added Net: Name=NL1_USB_D_N
+Added Pin To Net: NetName=NL1_USB_D_P Pin=J1-4
+Added Net: Name=NL1_USB_D_P
+Added Pin To Net: NetName=NL1_USB_N Pin=J11-2
+Added Net: Name=NL1_USB_N
+Added Pin To Net: NetName=NL1_USB_P Pin=J11-3
+Added Net: Name=NL1_USB_P
+Added Pin To Net: NetName=NL2_USB_N Pin=J21-2
+Added Net: Name=NL2_USB_N
+Added Pin To Net: NetName=NL2_USB_P Pin=J21-3
+Added Net: Name=NL2_USB_P
+Change Class Name : Old Net Name=04_CONNECTOR New Net Name=02_CONNECTOR
+Added Member To Class: ClassName=02_CONNECTOR Member=Component J11 858-22-005-10-011101

@@ -1,0 +1,12 @@
+Added Component: Designator=H1(HEX-M3_NoVia)
+Added Component: Designator=H6(HEX-M3_NoVia)
+Added Component: Designator=H7(HEX-M3_NoVia)
+Added Component: Designator=H8(HEX-M3_NoVia)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Member To Class: ClassName=02_CONNECTOR Member=Component H1 M3
+Added Member To Class: ClassName=02_CONNECTOR Member=Component H6 M3
+Added Member To Class: ClassName=02_CONNECTOR Member=Component H7 M3
+Added Member To Class: ClassName=02_CONNECTOR Member=Component H8 M3
