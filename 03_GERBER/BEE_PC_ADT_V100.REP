@@ -1,0 +1,230 @@
+*************************************************************
+FileName = BEE_PC_ADT_V100.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : BEE_PC_ADT_V100_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BEE_PC_ADT_V100_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BEE_PC_ADT_V100_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BEE_PC_ADT_V100_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BEE_PC_ADT_V100_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BEE_PC_ADT_V100_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BEE_PC_ADT_V100_Pads_Top.gbr
+
+    Adding Layer      : L1_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BEE_PC_ADT_V100_Pads_Bot.gbr
+
+    Adding Layer      : L4_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : L4_SHIELD
+      File : BEE_PC_ADT_V100_Copper_Signal_Bot.gbr
+
+    Adding Layer      : L4_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : L3_POWER
+      File : BEE_PC_ADT_V100_Copper_Signal_2.gbr
+
+    Adding Layer      : L3_POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : L2_GND
+      File : BEE_PC_ADT_V100_Copper_Signal_1.gbr
+
+    Adding Layer      : L2_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : L1_SHIELD
+      File : BEE_PC_ADT_V100_Copper_Signal_Top.gbr
+
+    Adding Layer      : L1_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : BEE_PC_ADT_V100_Drawing_1.gbr
+
+    Adding Drill Pair : L1_SHIELD-L4_SHIELD
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : BEE_PC_ADT_V100_Drillmap_1.gbr
+
+    Adding Drill Pair : L1_SHIELD-L4_SHIELD
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : BEE_PC_ADT_V100_Profile.gbr
+
+
+Used DCodes :
+    D24
+*************************************************************
+
