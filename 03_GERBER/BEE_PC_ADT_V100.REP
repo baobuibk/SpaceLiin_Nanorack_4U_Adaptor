@@ -124,6 +124,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : L2_GND
+      File : BEE_PC_ADT_V100_Copper_Signal_1.gbr
+
+    Adding Layer      : L2_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
 Generating : L4_SHIELD
       File : BEE_PC_ADT_V100_Copper_Signal_Bot.gbr
 
@@ -145,23 +162,6 @@ Generating : L3_POWER
       File : BEE_PC_ADT_V100_Copper_Signal_2.gbr
 
     Adding Layer      : L3_POWER
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : L2_GND
-      File : BEE_PC_ADT_V100_Copper_Signal_1.gbr
-
-    Adding Layer      : L2_GND
 
     Adding Layer      : Multi-Layer
 
