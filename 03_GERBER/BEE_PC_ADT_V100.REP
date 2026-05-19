@@ -2,10 +2,8 @@
 FileName = BEE_PC_ADT_V100.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : BEE_PC_ADT_V100_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
+Generating : L4_SHIELD
+      File : BEE_PC_ADT_V100_Copper_Signal_Bot.gbr
 
     Adding Layer      : L4_SHIELD
 
@@ -13,6 +11,11 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
@@ -27,6 +30,23 @@ Generating : Top Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BEE_PC_ADT_V100_Pads_Bot.gbr
+
+    Adding Layer      : L4_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
@@ -49,85 +69,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : BEE_PC_ADT_V100_Soldermask_Top.gbr
+Generating : L3_POWER
+      File : BEE_PC_ADT_V100_Copper_Signal_2.gbr
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : L1_SHIELD
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : BEE_PC_ADT_V100_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : BEE_PC_ADT_V100_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : BEE_PC_ADT_V100_Pads_Top.gbr
-
-    Adding Layer      : L1_SHIELD
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : BEE_PC_ADT_V100_Pads_Bot.gbr
-
-    Adding Layer      : L4_SHIELD
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : L2_GND
-      File : BEE_PC_ADT_V100_Copper_Signal_1.gbr
-
-    Adding Layer      : L2_GND
+    Adding Layer      : L3_POWER
 
     Adding Layer      : Multi-Layer
 
@@ -141,8 +86,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : L4_SHIELD
-      File : BEE_PC_ADT_V100_Copper_Signal_Bot.gbr
+Generating : Bottom Paste
+      File : BEE_PC_ADT_V100_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : L4_SHIELD
 
@@ -150,18 +97,13 @@ Generating : L4_SHIELD
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
 *************************************************************
 
 *************************************************************
-Generating : L3_POWER
-      File : BEE_PC_ADT_V100_Copper_Signal_2.gbr
+Generating : L2_GND
+      File : BEE_PC_ADT_V100_Copper_Signal_1.gbr
 
-    Adding Layer      : L3_POWER
+    Adding Layer      : L2_GND
 
     Adding Layer      : Multi-Layer
 
@@ -190,6 +132,64 @@ Used DCodes :
     D18
     D19
     D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BEE_PC_ADT_V100_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BEE_PC_ADT_V100_Pads_Top.gbr
+
+    Adding Layer      : L1_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BEE_PC_ADT_V100_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BEE_PC_ADT_V100_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1_SHIELD
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
